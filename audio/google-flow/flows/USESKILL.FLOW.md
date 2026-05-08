@@ -14,7 +14,13 @@ last-updated: 2026-05-08
 
 # Flow: useSkill
 
----
+---Ok,
+
+Let's brainstorm until I say stop.
+
+Do not generate anything until we are finished brainstorming.
+
+We need to work on the inject button.
 
 ## Instructions
 
