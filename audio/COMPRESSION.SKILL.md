@@ -1,5 +1,7 @@
 ---
 name: Compression
+author: Blue-EyesWhiteDragon
+co-author: Claude Code
 description: >
   Technical reference for audio compression in music production. Covers compressor
   circuit topologies, time constant behaviour, genre-specific parameter guidelines

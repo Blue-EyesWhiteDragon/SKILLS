@@ -1,0 +1,6 @@
+root = true
+
+[{*.md,*.mdx}]
+indent_size = 8;
+indent_style = space;
+trim_trailing_whitespace = true;
