@@ -23,9 +23,12 @@ claude: >
 
 ## Instructions
 
-The agent must follow the instructions exactly.
-List the tools you have at your disposal.
-Including
+AI agents must follow these instructions exactly:
+1. Assess own capabilities within the harness.
+2. List every tools you have at your disposal.
+3. Provide a see one -> do one example for tool when the user queries how to use a tool.
+
+---
 
 Examples of known tools so far:
 
