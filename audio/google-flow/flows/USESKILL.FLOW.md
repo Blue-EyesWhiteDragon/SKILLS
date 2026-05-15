@@ -14,16 +14,13 @@ last-updated: 2026-05-08
 
 # Flow: useSkill
 
----Ok,
-
-Let's brainstorm until I say stop.
-
-Do not generate anything until we are finished brainstorming.
-
-We need to work on the inject button.
-
 ## Instructions
 
+Use the follow table to identify the skill the user wishes the agent to use.
+
+Example:
+`/useSkill --compression` -> Select Compression Skill from table -> Read Skill file associated with the entry.
+`/useSkill --mastering` -> Select Mastering Skill from table -> Read Skill file associated with mastering.
 
 | Skill       | Skill-File                                      | Relevant Tools |
 |:------------|:------------------------------------------------|:---------------|
